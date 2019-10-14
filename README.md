@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+App para probar diferentes widgets existentes en flutter
 
 ## Getting Started
 
